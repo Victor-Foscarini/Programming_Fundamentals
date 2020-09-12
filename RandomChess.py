@@ -1,4 +1,4 @@
-#Victor Foscarini Almeida
+#Victor-Foscarini
 
 #em todo o código foi utilizada uma estutura de árvore de decisão que checa sempre em uma função verifica() quais são as possibilidades de ação da peça, seja para capturar outra peça ou se mover e salva todos os seus possíveis movimentos, além de salvar no geral o que acontece no jogo e os seus dessenrolares
 #outras estruturas e árvores de decisão menores também foram utilizadas no código para realizar captura e movimento de peças, além de loops para imprimir o tabuleiro e as suas mudanças utilizando o pygame
