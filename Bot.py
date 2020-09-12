@@ -1,3 +1,5 @@
+#Victor-Foscarini
+
 #abra o terminal na pasta que contém o código
 #instale o pip caso não tenha : 'sudo apt-get install pip'
 #instale a biblioteca pynput: 'pip install pynput'
