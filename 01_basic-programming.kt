@@ -8,7 +8,7 @@ fun main(args : Array<String>){
       print("Enter a color: ")
       var color = readLine()
 
-      var name: String="Bane"
+      var name: String="Name"
 
       var age1=(0..1000).random()
       var age2=(0..1001).random()
